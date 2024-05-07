@@ -1,0 +1,5 @@
+import AplicacionesPropiasConModulos1
+
+lista = AplicacionesPropiasConModulos1.cargar_datos()
+AplicacionesPropiasConModulos1.verificar_mayor(lista)
+AplicacionesPropiasConModulos1.verificar_suma(lista)
